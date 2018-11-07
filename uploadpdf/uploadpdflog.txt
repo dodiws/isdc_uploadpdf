@@ -1,0 +1,748 @@
+2018-04-26 06:09:51,078;uploadpdf;ERROR;; file csv('/home/uploader/161213/uploadlist.csv') not found
+2018-04-26 06:13:27,551;uploadpdf;ERROR;exception_name;file csv('/home/uploader/161213/uploadlist.csv') not found
+2018-04-26 06:25:36,680;uploadpdf;ERROR;exception_name;file csv('/home/uploader/161213/uploadlist.csv') not found
+2018-04-26 06:42:47,564;uploadpdf;ERROR;exception_type;file csv('/home/uploader/161213/a.csv') not found
+2018-05-07 08:16:54,721;uploadpdf;ERROR;exception_type;file csv('/home/uploader/161213/uploadlist.csv') not found
+2018-05-08 07:07:37,634;uploadpdf;ERROR;exception_type;file csv('/home/uploader/161213/uploadlist.csv') not found
+2018-05-08 07:30:22,984;uploadpdf;ERROR;exception_type;file csv('/home/uploader/161213/uploadlist.csv') not found
+2018-05-08 07:30:22,984;uploadpdf;ERROR;exception_type;file csv('/home/uploader/161213/uploadlist.csv') not found
+2018-05-11 03:04:51,130;uploadpdf;ERROR;exception_type;file csv('/home/uploader/161213/uploadlist.csv') not found
+2018-05-11 03:05:26,899;uploadpdf;ERROR;exception_type;file csv('/home/uploader/161213/uploadlist.csv') not found
+2018-05-11 03:05:26,899;uploadpdf;ERROR;exception_type;file csv('/home/uploader/161213/uploadlist.csv') not found
+2018-05-11 03:08:40,544;uploadpdf;run_checkPDFExists:468;ERROR;exception_type;file csv('/home/uploader/161213/uploadlist.csv') not found
+2018-05-11 03:09:03,584;uploadpdf;run_checkPDFExists:468;ERROR;exception_type;file csv('/home/uploader/161213/uploadlist.csv') not found
+2018-05-11 03:09:03,584;uploadpdf;run_checkPDFExists:468;ERROR;exception_type;file csv('/home/uploader/161213/uploadlist.csv') not found
+2018-05-11 03:14:23,618;uploadpdf;run_checkPDFExists:469;ERROR;exception_type;file csv('/home/uploader/161213/uploadlist.csv') not found
+2018-05-11 03:14:44,714;uploadpdf;run_checkPDFExists:469;ERROR;exception_type;file csv('/home/uploader/161213/uploadlist.csv') not found
+2018-05-11 03:14:50,650;uploadpdf;run_checkPDFExists:469;ERROR;exception_type;file csv('/home/uploader/161213/uploadlist.csv') not found
+2018-05-11 03:14:56,577;uploadpdf;run_checkPDFExists:469;ERROR;exception_type;file csv('/home/uploader/161213/uploadlist.csv') not found
+2018-05-11 03:15:13,499;uploadpdf;run_checkPDFExists:469;ERROR;exception_type;file csv('/home/uploader/161213/uploadlist.csv') not found
+2018-05-14 04:21:30,042;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 04:23:22,339;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 04:23:22,339;uploadpdf;run_checkPDFExists:471;ERROR;exception_type;global name 'checkPDFExists' is not defined
+2018-05-14 04:23:54,738;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 04:23:54,738;uploadpdf;run_checkPDFExists:471;ERROR;exception_type;global name 'checkPDFExists' is not defined
+2018-05-14 04:25:28,855;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 04:25:28,855;uploadpdf;run_checkPDFExists:444;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 04:51:04,117;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 04:51:04,118;uploadpdf;run_checkPDFExists:444;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 05:00:28,489;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 05:00:28,489;uploadpdf;run_checkPDFExists:444;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 05:02:57,598;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 05:02:57,599;uploadpdf;run_checkPDFExists:444;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 05:22:22,271;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 05:22:22,271;uploadpdf;run_checkPDFExists:444;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 06:43:44,110;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 06:43:44,110;uploadpdf;run_checkPDFExists:444;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 06:59:00,642;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 06:59:00,643;uploadpdf;run_checkPDFExists:444;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 07:03:01,981;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 07:03:01,981;uploadpdf;run_checkPDFExists:444;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 07:04:19,593;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 07:04:19,594;uploadpdf;run_checkPDFExists:444;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 07:18:07,900;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 07:18:07,901;uploadpdf;run_checkPDFExists:444;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 07:18:59,234;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 07:18:59,234;uploadpdf;run_checkPDFExists:444;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 07:19:44,888;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 07:19:44,888;uploadpdf;run_checkPDFExists:444;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 07:22:15,638;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 07:22:15,639;uploadpdf;run_checkPDFExists:444;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 07:24:51,096;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 07:24:51,096;uploadpdf;run_checkPDFExists:444;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 07:26:24,175;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 07:26:24,175;uploadpdf;run_checkPDFExists:444;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 07:41:04,967;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 07:41:04,967;uploadpdf;run_checkPDFExists:444;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 07:44:18,384;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 07:44:18,384;uploadpdf;run_checkPDFExists:444;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 07:45:42,827;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 07:45:42,828;uploadpdf;run_checkPDFExists:444;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 07:46:59,433;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 07:46:59,433;uploadpdf;run_checkPDFExists:444;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 08:02:39,733;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 08:02:39,733;uploadpdf;run_checkPDFExists:444;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 08:05:36,010;uploadpdf;run_checkPDFExists:443;DEBUG;before script call
+2018-05-14 08:05:36,011;uploadpdf;run_checkPDFExists:444;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 08:09:51,646;uploadpdf;run_checkPDFExists:446;DEBUG;before script call
+2018-05-14 08:09:51,646;uploadpdf;run_checkPDFExists:447;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 08:10:51,064;uploadpdf;run_checkPDFExists:446;DEBUG;before script call
+2018-05-14 08:10:51,064;uploadpdf;run_checkPDFExists:447;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 08:12:12,973;uploadpdf;run_checkPDFExists:446;DEBUG;before script call
+2018-05-14 08:12:12,973;uploadpdf;run_checkPDFExists:447;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 08:13:27,521;uploadpdf;run_checkPDFExists:446;DEBUG;before script call
+2018-05-14 08:13:27,521;uploadpdf;run_checkPDFExists:447;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-14 08:34:59,722;uploadpdf;run_checkPDFExists:447;DEBUG;before script call
+2018-05-14 08:34:59,722;uploadpdf;run_checkPDFExists:448;DEBUG;file_checkPDFExists: /home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py
+2018-05-15 02:58:37,453;uploadpdf;<module>:41;DEBUG;start loop
+2018-05-15 02:58:37,467;uploadpdf;<module>:47;DEBUG;['FileName', 'Title', 'Source', 'rev_region', 'region_id', 'cat_id_rev', 'Category', 'Keyword', 'Papersize', 'Date', 'Folder', 'Sub_Folder', 'subtitle', 'cat_id', 'abstract', 'sourceNo', 'dbNo', 'version']
+2018-05-15 02:58:37,467;uploadpdf;<module>:89;INFO;upload pdf succesfull: Title
+2018-05-15 03:25:10,539;uploadpdf;<module>:30;DEBUG;['FileName', 'Title', 'Source', 'rev_region', 'region_id', 'cat_id_rev', 'Category', 'Keyword', 'Papersize', 'Date', 'Folder', 'Sub_Folder', 'subtitle', 'cat_id', 'abstract', 'sourceNo', 'dbNo', 'version']
+2018-05-30 09:39:57,428;uploadpdf;exception_hook:25;ERROR;Uncaught exception
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 29, in <module>
+    raise Exception('test exception logger')
+Exception: test exception logger
+2018-06-01 09:54:55,295;uploadpdf;<module>:91;ERROR;No rows data
+2018-06-01 09:56:14,497;uploadpdf;<module>:91;ERROR;No rows data
+2018-06-01 11:18:29,558;uploadpdf;<module>:94;ERROR;No rows data
+2018-06-01 11:22:30,560;uploadpdf;<module>:95;ERROR;No rows data
+2018-06-01 11:28:18,469;uploadpdf;<module>:95;ERROR;No rows data
+2018-06-10 09:10:55,185;uploadpdf;<module>:110;ERROR;No rows data
+2018-06-10 09:20:44,812;uploadpdf;<module>:103;ERROR;afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf error...!, JPG
+2018-06-10 09:25:05,521;uploadpdf;<module>:103;ERROR;afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf error...!, 
+2018-06-10 09:34:13,927;uploadpdf;<module>:105;ERROR;afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf error...!, 
+2018-06-10 09:55:39,900;uploadpdf;<module>:105;ERROR;afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf error...!, JPG
+2018-06-10 10:00:40,734;uploadpdf;<module>:105;ERROR;afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf error...!, JPG
+2018-06-10 10:03:25,960;uploadpdf;<module>:105;ERROR;afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf error...!, cannot write mode P as JPEG
+2018-06-10 11:33:01,618;uploadpdf;<module>:102;ERROR;not all arguments converted during string formatting
+2018-06-10 11:33:48,666;uploadpdf;<module>:102;ERROR;'/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found
+2018-06-10 11:36:25,193;uploadpdf;<module>:92;ERROR;afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf error...!, JPG
+2018-06-10 11:45:29,454;uploadpdf;<module>:100;ERROR;'/home/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found
+2018-06-10 11:55:23,814;uploadpdf;<module>:98;ERROR;'/home/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not foundTraceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 92, in <module>
+    raise Exception('\'%s\' not found'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: '/home/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found
+
+2018-06-10 11:55:51,980;uploadpdf;<module>:98;ERROR;file '/home/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not foundTraceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 92, in <module>
+    raise Exception('file \'%s\' not found'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: file '/home/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found
+
+2018-06-10 11:57:10,938;uploadpdf;<module>:98;ERROR;file '/home/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 92, in <module>
+    raise Exception('file \'%s\' not found'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: file '/home/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found
+
+2018-06-10 11:58:07,476;uploadpdf;<module>:98;ERROR;file '/home/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 92, in <module>
+    raise Exception('file \'%s\' not found'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: file '/home/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found
+
+2018-06-10 12:00:23,708;uploadpdf;<module>:91;ERROR;afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf error...!, JPG
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 80, in <module>
+    newdata.save()
+  File "/usr/local/lib/python2.7/dist-packages/polymorphic/polymorphic_model.py", line 90, in save
+    return super(PolymorphicModel, self).save(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/base.py", line 545, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/base.py", line 582, in save_base
+    update_fields=update_fields, raw=raw, using=using)
+  File "/usr/local/lib/python2.7/dist-packages/django/dispatch/dispatcher.py", line 185, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "/home/dodi/DRR-datacenter/geonode/documents/models.py", line 218, in create_thumbnail
+    create_document_thumbnail.delay(object_id=instance.id)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 453, in delay
+    return self.apply_async(args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 547, in apply_async
+    link=link, link_error=link_error, **options)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 739, in apply
+    request=request, propagate=throw)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 355, in eager_trace_task
+    uuid, args, kwargs, request)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 253, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/dodi/DRR-datacenter/geonode/tasks/update.py", line 29, in create_document_thumbnail
+    image = document._render_thumbnail('thumb')
+  File "/home/dodi/DRR-datacenter/geonode/documents/models.py", line 120, in _render_thumbnail
+    img.save(imgfile, format='JPG')
+  File "/usr/local/lib/python2.7/dist-packages/PIL/Image.py", line 1456, in save
+    save_handler = SAVE[format.upper()] # unknown format
+KeyError: 'JPG'
+
+2018-06-10 12:06:03,728;uploadpdf;<module>:100;ERROR;file '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 94, in <module>
+    raise Exception('file \'%s\' not found'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: file '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found
+
+2018-06-10 12:06:35,835;uploadpdf;<module>:91;ERROR;Error on: afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf, JPG
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 80, in <module>
+    newdata.save()
+  File "/usr/local/lib/python2.7/dist-packages/polymorphic/polymorphic_model.py", line 90, in save
+    return super(PolymorphicModel, self).save(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/base.py", line 545, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/base.py", line 582, in save_base
+    update_fields=update_fields, raw=raw, using=using)
+  File "/usr/local/lib/python2.7/dist-packages/django/dispatch/dispatcher.py", line 185, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "/home/dodi/DRR-datacenter/geonode/documents/models.py", line 218, in create_thumbnail
+    create_document_thumbnail.delay(object_id=instance.id)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 453, in delay
+    return self.apply_async(args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 547, in apply_async
+    link=link, link_error=link_error, **options)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 739, in apply
+    request=request, propagate=throw)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 355, in eager_trace_task
+    uuid, args, kwargs, request)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 253, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/dodi/DRR-datacenter/geonode/tasks/update.py", line 29, in create_document_thumbnail
+    image = document._render_thumbnail('thumb')
+  File "/home/dodi/DRR-datacenter/geonode/documents/models.py", line 120, in _render_thumbnail
+    img.save(imgfile, format='JPG')
+  File "/usr/local/lib/python2.7/dist-packages/PIL/Image.py", line 1456, in save
+    save_handler = SAVE[format.upper()] # unknown format
+KeyError: 'JPG'
+
+2018-06-10 12:12:31,839;uploadpdf;<module>:100;ERROR;previous_file_name 'a' returns multiple row
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 74, in <module>
+    raise Exception('previous_file_name \'%s\' returns multiple row'%(row[18]))
+Exception: previous_file_name 'a' returns multiple row
+
+2018-06-10 12:14:36,543;uploadpdf;<module>:91;ERROR;Error on: afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf, JPG
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 80, in <module>
+    newdata.save()
+  File "/usr/local/lib/python2.7/dist-packages/polymorphic/polymorphic_model.py", line 90, in save
+    return super(PolymorphicModel, self).save(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/base.py", line 545, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/base.py", line 582, in save_base
+    update_fields=update_fields, raw=raw, using=using)
+  File "/usr/local/lib/python2.7/dist-packages/django/dispatch/dispatcher.py", line 185, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "/home/dodi/DRR-datacenter/geonode/documents/models.py", line 218, in create_thumbnail
+    create_document_thumbnail.delay(object_id=instance.id)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 453, in delay
+    return self.apply_async(args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 547, in apply_async
+    link=link, link_error=link_error, **options)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 739, in apply
+    request=request, propagate=throw)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 355, in eager_trace_task
+    uuid, args, kwargs, request)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 253, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/dodi/DRR-datacenter/geonode/tasks/update.py", line 29, in create_document_thumbnail
+    image = document._render_thumbnail('thumb')
+  File "/home/dodi/DRR-datacenter/geonode/documents/models.py", line 120, in _render_thumbnail
+    img.save(imgfile, format='JPG')
+  File "/usr/local/lib/python2.7/dist-packages/PIL/Image.py", line 1456, in save
+    save_handler = SAVE[format.upper()] # unknown format
+KeyError: 'JPG'
+
+2018-06-10 12:17:07,066;uploadpdf;<module>:100;ERROR;file '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 94, in <module>
+    raise Exception('file \'%s\' not found'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: file '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found
+
+2018-06-10 12:17:30,621;uploadpdf;<module>:100;ERROR;previous_file_name 'asdfghjk' not found in database.
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 72, in <module>
+    raise Exception('previous_file_name \'%s\' not found in database.'%(row[18]))
+Exception: previous_file_name 'asdfghjk' not found in database.
+
+2018-06-11 13:45:25,072;uploadpdf;<module>:1;INFO;test info
+2018-06-18 23:54:14,662;uploadpdf;<module>:121;ERROR;isfile() takes exactly 1 argument (0 given)
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 54, in <module>
+    if os.path.isfile():
+TypeError: isfile() takes exactly 1 argument (0 given)
+
+2018-06-18 23:54:14,663;uploadpdf;exception_hook:28;ERROR;Uncaught exception
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 133, in <module>
+    if e in locals:
+TypeError: argument of type 'builtin_function_or_method' is not iterable
+2018-06-18 23:59:43,589;uploadpdf;<module>:121;ERROR;isfile() takes exactly 1 argument (0 given)
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 54, in <module>
+    if os.path.isfile():
+TypeError: isfile() takes exactly 1 argument (0 given)
+
+2018-06-19 00:07:29,928;uploadpdf;<module>:121;ERROR;File '/home/uploader/161213/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 115, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/uploader/161213/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-06-19 00:25:19,869;uploadpdf;<module>:128;ERROR;File '/home/dodi/tmp/uploader/161213/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 122, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/dodi/tmp/uploader/161213/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-06-19 00:26:56,836;uploadpdf;<module>:128;ERROR;previous_file_name 'asdfghjk' not found in database.
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 82, in <module>
+    raise Exception('previous_file_name \'%s\' not found in database.'%(row[18]))
+Exception: previous_file_name 'asdfghjk' not found in database.
+
+2018-06-19 00:28:21,422;uploadpdf;<module>:128;ERROR;JPG
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 106, in <module>
+    newdata.save()
+  File "/usr/local/lib/python2.7/dist-packages/polymorphic/polymorphic_model.py", line 90, in save
+    return super(PolymorphicModel, self).save(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/base.py", line 545, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/base.py", line 582, in save_base
+    update_fields=update_fields, raw=raw, using=using)
+  File "/usr/local/lib/python2.7/dist-packages/django/dispatch/dispatcher.py", line 185, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "/home/dodi/DRR-datacenter/geonode/documents/models.py", line 218, in create_thumbnail
+    create_document_thumbnail.delay(object_id=instance.id)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 453, in delay
+    return self.apply_async(args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 547, in apply_async
+    link=link, link_error=link_error, **options)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 739, in apply
+    request=request, propagate=throw)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 355, in eager_trace_task
+    uuid, args, kwargs, request)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 253, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/dodi/DRR-datacenter/geonode/tasks/update.py", line 29, in create_document_thumbnail
+    image = document._render_thumbnail('thumb')
+  File "/home/dodi/DRR-datacenter/geonode/documents/models.py", line 120, in _render_thumbnail
+    img.save(imgfile, format='JPG')
+  File "/usr/local/lib/python2.7/dist-packages/PIL/Image.py", line 1456, in save
+    save_handler = SAVE[format.upper()] # unknown format
+KeyError: 'JPG'
+
+2018-06-19 00:28:46,699;uploadpdf;<module>:128;ERROR;File '/home/dodi/tmp/uploader/161213/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 122, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/dodi/tmp/uploader/161213/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-06-19 00:36:43,246;uploadpdf;<module>:128;ERROR;JPG
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 106, in <module>
+    newdata.save()
+  File "/usr/local/lib/python2.7/dist-packages/polymorphic/polymorphic_model.py", line 90, in save
+    return super(PolymorphicModel, self).save(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/base.py", line 545, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/base.py", line 582, in save_base
+    update_fields=update_fields, raw=raw, using=using)
+  File "/usr/local/lib/python2.7/dist-packages/django/dispatch/dispatcher.py", line 185, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "/home/dodi/DRR-datacenter/geonode/documents/models.py", line 218, in create_thumbnail
+    create_document_thumbnail.delay(object_id=instance.id)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 453, in delay
+    return self.apply_async(args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 547, in apply_async
+    link=link, link_error=link_error, **options)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 739, in apply
+    request=request, propagate=throw)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 355, in eager_trace_task
+    uuid, args, kwargs, request)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 253, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/dodi/DRR-datacenter/geonode/tasks/update.py", line 29, in create_document_thumbnail
+    image = document._render_thumbnail('thumb')
+  File "/home/dodi/DRR-datacenter/geonode/documents/models.py", line 120, in _render_thumbnail
+    img.save(imgfile, format='JPG')
+  File "/usr/local/lib/python2.7/dist-packages/PIL/Image.py", line 1456, in save
+    save_handler = SAVE[format.upper()] # unknown format
+KeyError: 'JPG'
+
+2018-06-21 03:30:20,422;uploadpdf;<module>:112;ERROR;File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 106, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-06-21 03:31:05,234;uploadpdf;<module>:112;ERROR;File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 106, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-06-21 03:31:56,915;uploadpdf;<module>:112;ERROR;JPG
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 90, in <module>
+    newdata.save()
+  File "/usr/local/lib/python2.7/dist-packages/polymorphic/polymorphic_model.py", line 90, in save
+    return super(PolymorphicModel, self).save(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/base.py", line 545, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/base.py", line 582, in save_base
+    update_fields=update_fields, raw=raw, using=using)
+  File "/usr/local/lib/python2.7/dist-packages/django/dispatch/dispatcher.py", line 185, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "/home/dodi/DRR-datacenter/geonode/documents/models.py", line 218, in create_thumbnail
+    create_document_thumbnail.delay(object_id=instance.id)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 453, in delay
+    return self.apply_async(args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 547, in apply_async
+    link=link, link_error=link_error, **options)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 739, in apply
+    request=request, propagate=throw)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 355, in eager_trace_task
+    uuid, args, kwargs, request)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 253, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/dodi/DRR-datacenter/geonode/tasks/update.py", line 29, in create_document_thumbnail
+    image = document._render_thumbnail('thumb')
+  File "/home/dodi/DRR-datacenter/geonode/documents/models.py", line 120, in _render_thumbnail
+    img.save(imgfile, format='JPG')
+  File "/usr/local/lib/python2.7/dist-packages/PIL/Image.py", line 1456, in save
+    save_handler = SAVE[format.upper()] # unknown format
+KeyError: 'JPG'
+
+2018-06-25 07:53:44,385;uploadpdf;<module>:112;ERROR;File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 106, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-06-25 07:55:18,440;uploadpdf;<module>:112;ERROR;JPG
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 90, in <module>
+    newdata.save()
+  File "/usr/local/lib/python2.7/dist-packages/polymorphic/polymorphic_model.py", line 90, in save
+    return super(PolymorphicModel, self).save(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/base.py", line 545, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/base.py", line 582, in save_base
+    update_fields=update_fields, raw=raw, using=using)
+  File "/usr/local/lib/python2.7/dist-packages/django/dispatch/dispatcher.py", line 185, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "/home/dodi/DRR-datacenter/geonode/documents/models.py", line 218, in create_thumbnail
+    create_document_thumbnail.delay(object_id=instance.id)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 453, in delay
+    return self.apply_async(args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 547, in apply_async
+    link=link, link_error=link_error, **options)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 739, in apply
+    request=request, propagate=throw)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 355, in eager_trace_task
+    uuid, args, kwargs, request)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 253, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/dodi/DRR-datacenter/geonode/tasks/update.py", line 29, in create_document_thumbnail
+    image = document._render_thumbnail('thumb')
+  File "/home/dodi/DRR-datacenter/geonode/documents/models.py", line 120, in _render_thumbnail
+    img.save(imgfile, format='JPG')
+  File "/usr/local/lib/python2.7/dist-packages/PIL/Image.py", line 1456, in save
+    save_handler = SAVE[format.upper()] # unknown format
+KeyError: 'JPG'
+
+2018-06-28 03:02:29,498;uploadpdf;<module>:24;INFO;test logger.info
+2018-06-28 03:02:29,511;uploadpdf;<module>:113;ERROR;No rows data.
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 110, in <module>
+    raise Exception('No rows data.')
+Exception: No rows data.
+
+2018-06-28 03:12:25,386;uploadpdf;<module>:50;INFO;test logger.info
+2018-06-28 03:12:25,386;uploadpdf;<module>:113;ERROR;No rows data.
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 110, in <module>
+    raise Exception('No rows data.')
+Exception: No rows data.
+
+2018-06-28 03:15:34,959;uploadpdf;<module>:50;INFO;test logger.info
+2018-06-28 03:15:34,959;uploadpdf;<module>:50;INFO;test logger.info
+2018-06-28 03:15:34,975;uploadpdf;<module>:113;ERROR;File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 107, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-06-28 03:16:25,037;uploadpdf;<module>:55;INFO;test logger.info
+2018-06-28 03:16:25,038;uploadpdf;<module>:113;ERROR;File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 107, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-06-28 03:30:09,261;uploadpdf;<module>:62;INFO;test logger.info
+2018-06-28 03:30:13,352;uploadpdf;<module>:113;ERROR;JPG
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 91, in <module>
+    newdata.save()
+  File "/usr/local/lib/python2.7/dist-packages/polymorphic/polymorphic_model.py", line 90, in save
+    return super(PolymorphicModel, self).save(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/base.py", line 545, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/local/lib/python2.7/dist-packages/django/db/models/base.py", line 582, in save_base
+    update_fields=update_fields, raw=raw, using=using)
+  File "/usr/local/lib/python2.7/dist-packages/django/dispatch/dispatcher.py", line 185, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "/home/dodi/DRR-datacenter/geonode/documents/models.py", line 218, in create_thumbnail
+    create_document_thumbnail.delay(object_id=instance.id)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 453, in delay
+    return self.apply_async(args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 547, in apply_async
+    link=link, link_error=link_error, **options)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/task.py", line 739, in apply
+    request=request, propagate=throw)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 355, in eager_trace_task
+    uuid, args, kwargs, request)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 253, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+  File "/usr/local/lib/python2.7/dist-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/home/dodi/DRR-datacenter/geonode/tasks/update.py", line 29, in create_document_thumbnail
+    image = document._render_thumbnail('thumb')
+  File "/home/dodi/DRR-datacenter/geonode/documents/models.py", line 120, in _render_thumbnail
+    img.save(imgfile, format='JPG')
+  File "/usr/local/lib/python2.7/dist-packages/PIL/Image.py", line 1456, in save
+    save_handler = SAVE[format.upper()] # unknown format
+KeyError: 'JPG'
+
+2018-06-28 03:36:51,221;uploadpdf;<module>:24;INFO;Script checkPDFExists.py start
+2018-06-28 03:36:51,222;uploadpdf;<module>:113;ERROR;File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 107, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-06-28 03:41:13,802;uploadpdf;<module>:24;INFO;Script 'checkPDFExists.py' start
+2018-06-28 03:41:13,804;uploadpdf;<module>:113;ERROR;File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 107, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-06-28 03:54:29,569;uploadpdf;<module>:24;INFO;Script 'checkPDFExists.py' start
+2018-06-28 03:54:29,569;uploadpdf;<module>:113;ERROR;File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "./geonode/documents/checkPDFExists.py", line 107, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-06-28 04:27:14,153;uploadpdf;<module>:29;INFO;Script 'checkPDFExists.py' start.
+2018-06-28 04:27:14,153;uploadpdf;<module>:118;ERROR;File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "./geonode/documents/checkPDFExists.py", line 112, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-06-28 04:27:24,743;uploadpdf;<module>:29;INFO;Script 'checkPDFExists.py' start.
+2018-06-28 04:27:24,744;uploadpdf;<module>:118;ERROR;File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "./geonode/documents/checkPDFExists.py", line 112, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-06-28 04:27:29,618;uploadpdf;<module>:29;INFO;Script 'checkPDFExists.py' start.
+2018-06-28 04:27:29,619;uploadpdf;<module>:118;ERROR;File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "./geonode/documents/checkPDFExists.py", line 112, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-06-28 04:32:52,604;uploadpdf;<module>:30;INFO;Script 'checkPDFExists.py' start.
+2018-06-28 04:32:52,605;uploadpdf;<module>:119;ERROR;File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "./geonode/documents/checkPDFExists.py", line 113, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-06-28 04:46:56,997;uploadpdf;<module>:31;INFO;Script 'checkPDFExists.py' start.
+2018-06-28 04:46:56,997;uploadpdf;<module>:120;ERROR;File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "./geonode/documents/checkPDFExists.py", line 114, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-06-28 04:56:20,583;uploadpdf;<module>:31;INFO;Script 'checkPDFExists.py' start.
+2018-06-28 04:56:20,584;uploadpdf;<module>:120;ERROR;File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "./geonode/documents/checkPDFExists.py", line 114, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-06-28 05:04:32,315;uploadpdf;<module>:30;INFO;Script 'checkPDFExists.py' start.
+2018-06-28 05:04:32,316;uploadpdf;<module>:119;ERROR;File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "./geonode/documents/checkPDFExists.py", line 113, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-06-28 05:05:08,187;uploadpdf;<module>:30;INFO;Script 'checkPDFExists.py' start.
+2018-06-28 05:05:08,188;uploadpdf;exception_hook:36;ERROR;Uncaught exception
+Traceback (most recent call last):
+  File "./geonode/documents/checkPDFExists.py", line 48, in <module>
+    f_IN = open(fname_csv_in, 'r+U')
+IOError: [Errno 2] No such file or directory: 'a.csv'
+2018-06-28 06:53:08,620;uploadpdf;<module>:30;INFO;Script 'checkPDFExists.py' start.
+2018-06-28 06:53:08,621;uploadpdf;<module>:120;ERROR;File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 114, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-06-28 07:08:18,834;uploadpdf;<module>:30;INFO;Script 'checkPDFExists.py' start.
+2018-06-28 07:08:18,834;uploadpdf;<module>:120;ERROR;File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 114, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-06-28 07:26:02,727;uploadpdf;<module>:30;INFO;Script 'checkPDFExists.py' start.
+2018-06-28 07:26:02,727;uploadpdf;<module>:120;ERROR;File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "/home/dodi/DRR-datacenter/geonode/documents/checkPDFExists.py", line 114, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-07-25 04:17:08,672;uploadpdf;run_checkPDFExists:797;ERROR;CalledProcessError; Traceback (most recent call last):
+  File "/home/dodi/envs/isdc/isdc/geonode/documents/checkPDFExists.py", line 11, in <module>
+    import geonode.documents.views
+  File "/home/dodi/envs/isdc/isdc/geonode/documents/views.py", line 45, in <module>
+    from geonode.people.forms import ProfileForm
+  File "/home/dodi/envs/isdc/isdc/geonode/people/forms.py", line 61, in <module>
+    class ForgotUsernameForm(forms.Form):
+  File "/home/dodi/envs/isdc/isdc/geonode/people/forms.py", line 64, in ForgotUsernameForm
+    label=_(u'Email Address'))
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/__init__.py", line 84, in ugettext
+    return _trans.ugettext(message)
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 330, in ugettext
+    return do_translate(message, 'ugettext')
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 307, in do_translate
+    _default = _default or translation(settings.LANGUAGE_CODE)
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 209, in translation
+    _translations[language] = DjangoTranslation(language)
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 118, in __init__
+    self._add_installed_apps_translations()
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 159, in _add_installed_apps_translations
+    "The translation infrastructure cannot be initialized before the "
+django.core.exceptions.AppRegistryNotReady: The translation infrastructure cannot be initialized before the apps registry is ready. Check that you don't make non-lazy gettext calls at import time.
+
+2018-07-25 04:18:28,804;uploadpdf;run_checkPDFExists:797;ERROR;CalledProcessError; Traceback (most recent call last):
+  File "/home/dodi/envs/isdc/isdc/geonode/documents/checkPDFExists.py", line 11, in <module>
+    import geonode.documents.views
+  File "/home/dodi/envs/isdc/isdc/geonode/documents/views.py", line 45, in <module>
+    from geonode.people.forms import ProfileForm
+  File "/home/dodi/envs/isdc/isdc/geonode/people/forms.py", line 61, in <module>
+    class ForgotUsernameForm(forms.Form):
+  File "/home/dodi/envs/isdc/isdc/geonode/people/forms.py", line 64, in ForgotUsernameForm
+    label=_(u'Email Address'))
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/__init__.py", line 84, in ugettext
+    return _trans.ugettext(message)
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 330, in ugettext
+    return do_translate(message, 'ugettext')
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 307, in do_translate
+    _default = _default or translation(settings.LANGUAGE_CODE)
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 209, in translation
+    _translations[language] = DjangoTranslation(language)
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 118, in __init__
+    self._add_installed_apps_translations()
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 159, in _add_installed_apps_translations
+    "The translation infrastructure cannot be initialized before the "
+django.core.exceptions.AppRegistryNotReady: The translation infrastructure cannot be initialized before the apps registry is ready. Check that you don't make non-lazy gettext calls at import time.
+
+2018-07-25 04:26:18,481;uploadpdf;run_checkPDFExists:797;ERROR;CalledProcessError; Traceback (most recent call last):
+  File "/home/dodi/envs/isdc/isdc/geonode/documents/checkPDFExists.py", line 11, in <module>
+    import geonode.documents.views
+  File "/home/dodi/envs/isdc/isdc/geonode/documents/views.py", line 46, in <module>
+    from geonode.base.forms import CategoryForm
+  File "/home/dodi/envs/isdc/isdc/geonode/base/forms.py", line 259, in <module>
+    class CategoryForm(forms.Form):
+  File "/home/dodi/envs/isdc/isdc/geonode/base/forms.py", line 262, in CategoryForm
+    label='*' + _('Category'),
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/__init__.py", line 84, in ugettext
+    return _trans.ugettext(message)
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 330, in ugettext
+    return do_translate(message, 'ugettext')
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 307, in do_translate
+    _default = _default or translation(settings.LANGUAGE_CODE)
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 209, in translation
+    _translations[language] = DjangoTranslation(language)
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 118, in __init__
+    self._add_installed_apps_translations()
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 159, in _add_installed_apps_translations
+    "The translation infrastructure cannot be initialized before the "
+django.core.exceptions.AppRegistryNotReady: The translation infrastructure cannot be initialized before the apps registry is ready. Check that you don't make non-lazy gettext calls at import time.
+
+2018-07-25 04:30:03,184;uploadpdf;run_checkPDFExists:797;ERROR;CalledProcessError; Traceback (most recent call last):
+  File "/home/dodi/envs/isdc/isdc/geonode/documents/checkPDFExists.py", line 6, in <module>
+    from geonode.documents.views import uploadpdf
+  File "/home/dodi/envs/isdc/isdc/geonode/documents/views.py", line 45, in <module>
+    from geonode.people.forms import ProfileForm
+  File "/home/dodi/envs/isdc/isdc/geonode/people/forms.py", line 61, in <module>
+    class ForgotUsernameForm(forms.Form):
+  File "/home/dodi/envs/isdc/isdc/geonode/people/forms.py", line 64, in ForgotUsernameForm
+    label=_(u'Email Address'))
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/__init__.py", line 84, in ugettext
+    return _trans.ugettext(message)
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 330, in ugettext
+    return do_translate(message, 'ugettext')
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 307, in do_translate
+    _default = _default or translation(settings.LANGUAGE_CODE)
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 209, in translation
+    _translations[language] = DjangoTranslation(language)
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 118, in __init__
+    self._add_installed_apps_translations()
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 159, in _add_installed_apps_translations
+    "The translation infrastructure cannot be initialized before the "
+django.core.exceptions.AppRegistryNotReady: The translation infrastructure cannot be initialized before the apps registry is ready. Check that you don't make non-lazy gettext calls at import time.
+
+2018-07-25 04:58:50,541;uploadpdf;run_checkPDFExists:97;ERROR;CalledProcessError; Traceback (most recent call last):
+  File "/home/dodi/envs/isdc/isdc/uploadpdf/checkPDFExists.py", line 6, in <module>
+    from geonode.documents.views import uploadpdf
+  File "/home/dodi/envs/isdc/isdc/geonode/documents/views.py", line 45, in <module>
+    from geonode.people.forms import ProfileForm
+  File "/home/dodi/envs/isdc/isdc/geonode/people/forms.py", line 61, in <module>
+    class ForgotUsernameForm(forms.Form):
+  File "/home/dodi/envs/isdc/isdc/geonode/people/forms.py", line 64, in ForgotUsernameForm
+    label=_(u'Email Address'))
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/__init__.py", line 84, in ugettext
+    return _trans.ugettext(message)
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 330, in ugettext
+    return do_translate(message, 'ugettext')
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 307, in do_translate
+    _default = _default or translation(settings.LANGUAGE_CODE)
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 209, in translation
+    _translations[language] = DjangoTranslation(language)
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 118, in __init__
+    self._add_installed_apps_translations()
+  File "/home/dodi/envs/isdc/local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 159, in _add_installed_apps_translations
+    "The translation infrastructure cannot be initialized before the "
+django.core.exceptions.AppRegistryNotReady: The translation infrastructure cannot be initialized before the apps registry is ready. Check that you don't make non-lazy gettext calls at import time.
+
+2018-07-25 05:02:02,149;uploadpdf;<module>:30;INFO;Script 'checkPDFExists.py' start.
+2018-07-25 05:02:02,191;uploadpdf;<module>:120;ERROR;File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "/home/dodi/envs/isdc/isdc/uploadpdf/checkPDFExists.py", line 114, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-07-25 05:02:02,270;uploadpdf;run_checkPDFExists:97;ERROR;CalledProcessError; Error on row: afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf. File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-07-25 05:30:49,453;uploadpdf;<module>:30;INFO;Script 'checkPDFExists.py' start.
+2018-07-25 05:30:49,453;uploadpdf;<module>:120;ERROR;File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "/home/dodi/envs/isdc/isdc_modules/isdc_uploadpdf/uploadpdf/checkPDFExists.py", line 114, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-07-25 05:30:49,532;uploadpdf;run_checkPDFExists:97;ERROR;CalledProcessError; Error on row: afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf. File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-07-25 21:03:27,638;uploadpdf;<module>:30;INFO;Script 'checkPDFExists.py' start.
+2018-07-25 21:03:27,638;uploadpdf;<module>:120;ERROR;File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+Traceback (most recent call last):
+  File "/home/dodi/envs/isdc/isdc_modules/isdc_uploadpdf/uploadpdf/checkPDFExists.py", line 114, in <module>
+    raise Exception('File \'%s\' not found.'%(os.path.normpath(path_source+row[10]+'/'+row[0])))
+Exception: File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
+2018-07-25 21:03:27,869;uploadpdf;run_checkPDFExists:97;ERROR;CalledProcessError; Error on row: afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf. File '/home/dodi/tmp/uploader/161213/ot-01_Other_Environmental/afg_COP-ot-01-21-P15_ACBAR_test5_Sub Test5_A0_1900-01-01_1.pdf' not found.
+
